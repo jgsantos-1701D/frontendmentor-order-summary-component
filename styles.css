@@ -15,12 +15,16 @@ body {
   align-items: center;
 }
 
-.background-img {
+.desktop-background-img {
   z-index: -1;
   position: absolute;
-  top: -200px;
+  top: -150px;
   left: 0;
   width: 100%;
+}
+
+.mobile-background-img {
+  display: none;
 }
 
 h1 {
@@ -134,6 +138,18 @@ button:focus {
 @media (max-width: 376px) {
   body {
     font-size: 14px;
+    height: 100vh;
+  }
+  .desktop-background-img {
+    display: none;
+  }
+  .mobile-background-img {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: scaleY(1.7);
+    z-index: -1;
   }
   .card-container {
     width: 325px;
