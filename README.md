@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://olharapo-1701d.github.io/frontend-mentor-order-summary-component/)
-- Live Site URL: [Live Site URL](https://github.com/olharapo-1701D/frontend-mentor-order-summary-component)
+- Solution URL: [Solution URL](https://github.com/olharapo-1701D/frontend-mentor-order-summary-component)
+- Live Site URL: [Live Site URL](https://olharapo-1701d.github.io/frontend-mentor-order-summary-component/)
 
 ## My process
 
