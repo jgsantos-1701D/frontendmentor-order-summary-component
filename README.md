@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/olharapo-1701D/frontend-mentor-order-summary-component/blob/main/screenshot/Screenoshot.png)
+![](https://github.com/olharapo-1701D/frontendmentor-order-summary-component/blob/main/screenshot/Screenoshot.png)
 
 ### Links
 
